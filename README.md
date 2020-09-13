@@ -1,4 +1,4 @@
 # Doomsday Rule
 Detailed explanation available on the [Wikipedia Page]
 
-[Wikipedia Page]: http://www.reddit.com
+[Wikipedia Page]: https://en.wikipedia.org/wiki/Doomsday_rule
